@@ -1,0 +1,15 @@
+# Godot 4
+.godot/
+/android/
+*.translation
+
+# 导出产物 / 签名
+build/
+*.apk
+*.aab
+*.keystore
+*.jks
+
+# 系统文件
+.DS_Store
+Thumbs.db

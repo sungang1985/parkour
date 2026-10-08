@@ -1,0 +1,4 @@
+# 统一换行符，二进制资源不做转换
+* text=auto eol=lf
+*.ttf binary
+*.png binary
